@@ -1,5 +1,5 @@
 {
-  "name": "ArrasDZ",
+  "name": "Arras",
   "version": "1.0.0",
   "main": "server/index.js",
   "scripts": {
@@ -18,4 +18,3 @@
   },
   "license": "GPL-3.0"
 }
- 
